@@ -1,0 +1,7 @@
+joblib
+streamlit
+pandas
+nltk
+langdetect
+reportlab
+scikit-learn
